@@ -1,0 +1,11 @@
+name: Voteplugin2
+version: ${project.version}
+main: me.itz_jeboydijk.voteplugin2.Main
+api-version: 1.17
+authors: [ louis ]
+description: vote pl
+
+commands:
+  heal:
+
+
