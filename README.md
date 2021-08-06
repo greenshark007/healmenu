@@ -1,2 +1,2 @@
 # healmenu
-# you can foor and damage healen
+# you can food and damage healen
